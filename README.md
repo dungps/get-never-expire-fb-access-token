@@ -2,7 +2,7 @@
 
 [Demo](https://dungpstools.herokuapp.com/)
 
-## Require
+## Requirement
 1. [Composer](https://getcomposer.org)
 2. [PHP](http://php.net/) 5.4 or greater
 3. [Apache](https://www.apache.org/) or [Nginx](https://nginx.org/en/)
