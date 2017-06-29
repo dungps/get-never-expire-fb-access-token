@@ -62,7 +62,6 @@ if ( isset( $_GET['appID'] ) && isset( $_GET['appSecret'] ) ) {
 
     $fb->setDefaultAccessToken( $access_token );
     $test = $fb->get('/me/accounts');
-    print_r( $test );
   }
 }
 ?>
