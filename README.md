@@ -1,6 +1,6 @@
 # Get Never Expire Facebook Access Token
 
-[Demo](https://dungpstools.herokuapp.com/)
+[Demo](http://get-access-token.herokuapp.com/)
 
 ## Requirement
 1. [Composer](https://getcomposer.org)
